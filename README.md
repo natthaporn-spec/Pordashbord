@@ -1,242 +1,245 @@
-# Pordashbord
-````md id="9xq2af"
-🛒 Pordashbord
-Pordashbordl คือโปรแกรมระบบขายหน้าร้าน (POS)  
-และระบบจัดการสินค้าและสต๊อก ที่ออกแบบมาสำหรับร้านค้าปลีก ร้านโชห่วย ร้านคอมพิวเตอร์ ร้านคาเฟ่ และธุรกิจขนาดเล็กถึงขนาดกลาง
-ช่วยให้เจ้าของร้านสามารถจัดการสินค้า ยอดขาย สต๊อก ลูกค้า และรายงานต่าง ๆ ได้อย่างสะดวกในโปรแกรมเดียว
+# 🚀 BookBand Pro Dashboard
 
-#  เกี่ยวกับโปรแกรม
-Pordashbord ถูกพัฒนาขึ้นเพื่อช่วยให้การบริหารร้านค้าเป็นเรื่องง่าย และรวดเร็ว 
+<div align="center">
 
-โปรแกรมสามารถช่วยในด้านต่างๆ เช่น:
-- จัดการสินค้าและสต๊อก
-- ระบบขายหน้าร้าน (POS)
-- พิมพ์ใบเสร็จ
-- รายงานยอดขาย
-- จัดการข้อมูลลูกค้า
-- ตรวจสอบสินค้าใกล้หมด
-- สำรองและกู้คืนข้อมูล
+![Status](https://img.shields.io/badge/Status-UI%20Design-success?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge\&logo=figma)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Portfolio-lightgrey?style=for-the-badge)
 
-------------------------------------------------------------------------------------
+### ✨ ระบบ Dashboard สำหรับจัดการร้านหนังสือยุคใหม่ ✨
 
-✨คุณสมบัติเด่น
-  ระบบขายหน้าร้าน (POS)
-- ขายสินค้าได้รวดเร็ว
-- รองรับบาร์โค้ด
-- คำนวณยอดอัตโนมัติ
-- รองรับการพิมพ์ใบเสร็จ
-- รองรับหลายรูปแบบการชำระเงิน
+ออกแบบ UI Dashboard สำหรับระบบจัดการร้านหนังสือและแพลตฟอร์ม BookBand
+เน้นความทันสมัย เรียบง่าย ใช้งานง่าย และรองรับ Responsive Design
 
-  ระบบจัดการสินค้า
-- เพิ่ม / แก้ไข / ลบสินค้า
-- จัดหมวดหมู่สินค้า
-- ตรวจสอบจำนวนสต๊อก
-- แจ้งเตือนสินค้าใกล้หมด
-- ค้นหาสินค้าได้รวดเร็ว
+[🎨 ดูโปรเจกต์บน Figma](https://www.figma.com/design/NCBg24kFyNLNxW0G2bwxk4/Bookband-prodashboard?node-id=1-2&p=f&t=QWu3j7fINpLWKg8i-0)
 
-  รายงานยอดขาย
-- รายงานยอดขายรายวัน
-- รายงานรายเดือน
-- สรุปกำไร / ขาดทุน
-- Export รายงานได้
-
-  ระบบสมาชิกและลูกค้า
-- จัดเก็บข้อมูลลูกค้า
-- ดูประวัติการซื้อ
-- ระบบสมาชิก
-- ระบบคะแนนสะสม
-
-  ระบบสำรองข้อมูล
-- สำรองฐานข้อมูล
-- กู้คืนข้อมูล
-- ป้องกันข้อมูลสูญหาย
-
--------------------------------------------------------------------------------------------
-
-🖼ภาพตัวอย่างโปรแกรม
-
-Dashboard
-<img width="766" height="432" alt="Screenshot 2026-04-17 212856" src="https://github.com/user-attachments/assets/cd78a113-ec1b-4f20-80d9-d2d1d6f6821f" />
-
-<img src="images/dashboard.png" width="100%">
+</div>
 
 ---
 
-## หน้าขายสินค้า (POS)
+# 📸 ตัวอย่างหน้าจอ
 
-<img src="images/pos.png" width="100%">
+<div align="center">
 
----
+<img src="./preview/dashboard-preview.png" width="100%" />
 
-## จัดการสินค้า
-
-<img src="images/products.png" width="100%">
+</div>
 
 ---
 
-## รายงานยอดขาย
+# ✨ Features
 
-<img src="images/reports.png" width="100%">
-
----
-
-# ⚙️ ความต้องการของระบบ
-
-| รายการ | ความต้องการ |
-|---|---|
-| ระบบปฏิบัติการ | Windows 10 / 11 |
-| RAM | 4 GB ขึ้นไป |
-| พื้นที่จัดเก็บ | 500 MB |
-| ฐานข้อมูล | SQL Server / MySQL |
-| เครื่องพิมพ์ | Thermal Printer (Optional) |
+| Icon | Feature              |
+| ---- | -------------------- |
+| ⚙️   | ระบบจัดการ Dashboard |
+| 📚   | จัดการข้อมูลหนังสือ  |
+| 👥   | จัดการผู้ใช้งาน      |
+| 🛒   | ระบบออเดอร์สินค้า    |
+| 💳   | ระบบชำระเงิน         |
+| 📈   | Analytics & Reports  |
+| 🔍   | ระบบค้นหา            |
+| 🔔   | Notification System  |
+| 📱   | Responsive Design    |
 
 ---
 
-# 🚀 วิธีติดตั้ง
+# 🎨 Design System
 
-## Clone Repository
+## 🌈 Color Palette
 
-```bash
-git clone https://github.com/yourname/ns-easystore-professional.git
-```
-
----
-
-## เปิดโฟลเดอร์โปรแกรม
-
-```bash
-cd ns-easystore-professional
-```
-
----
-
-## Import Database
-
-```bash
-database/easystore.sql
-```
+| สี                | Hex       |
+| ----------------- | --------- |
+| 🟦 Primary Blue   | `#4F46E5` |
+| 🟪 Soft Purple    | `#7C3AED` |
+| ⚪ Background      | `#F8FAFC` |
+| 🤍 Card White     | `#FFFFFF` |
+| ⚫ Text Dark       | `#0F172A` |
+| ◻️ Text Gray      | `#64748B` |
+| 🟩 Success Green  | `#22C55E` |
+| 🟧 Warning Orange | `#F59E0B` |
 
 ---
 
-## เปิดใช้งานโปรแกรม
+# 🧩 Icons ที่ใช้ในโปรเจกต์
 
-```bash
-NsEasyStore.exe
-```
+## 🔹 Action Icons
+
+| Icon | การใช้งาน  |
+| ---- | ---------- |
+| ⚙️   | Settings   |
+| 🗂️  | Database   |
+| 💹   | Analytics  |
+| 👛   | Wallet     |
+| 📋   | Reports    |
+| ❌    | Close      |
+| 💾   | Save       |
+| 🧾   | Export CSV |
+| 🖨️  | Print      |
+| 👁️  | Preview    |
+| 🗑️  | Delete     |
+| ✏️   | Edit       |
+| 🔍   | Search     |
+| ➕    | Add        |
+| 🔖   | Bookmark   |
+| ⬇️   | Dropdown   |
+| 📤   | Upload     |
+| ➖    | Remove     |
+| ➕    | Create     |
 
 ---
 
-# 🧑‍💻 วิธีใช้งาน
+## 🔹 System Icons
 
-## เพิ่มสินค้า
-
-1. ไปที่เมนูสินค้า
-2. กด “เพิ่มสินค้า”
-3. กรอกข้อมูลสินค้า
-4. กดบันทึก
+| Icon     | การใช้งาน       |
+| -------- | --------------- |
+| ⚙️       | System Settings |
+| 📍       | Location        |
+| 📞       | Contact         |
+| ✉️       | Email           |
+| 🖨️      | Printer         |
+| 💬       | Line Support    |
+| 📚       | Categories      |
+| 📦       | Product         |
+| 👨‍👩‍👧 | Users           |
+| 📥       | Import          |
+| 💰       | Payment         |
+| 🛒       | Shopping Cart   |
+| 📊       | Statistics      |
+| 📝       | Form            |
+| 🪪       | Profile         |
+| 📈       | Reports         |
+| 📄       | Documents       |
 
 ---
 
-## ขายสินค้า
+# 🔤 Typography
 
-1. เปิดหน้า POS
-2. สแกนบาร์โค้ดสินค้า
-3. ชำระเงิน
-4. พิมพ์ใบเสร็จ
+| ประเภท       | Font       |
+| ------------ | ---------- |
+| Heading      | Poppins    |
+| Body Text    | Inter      |
+| Dashboard UI | Sans-serif |
 
 ---
 
-# 🗂 โครงสร้างโปรเจกต์
+# 🎯 แนวทางการออกแบบ
 
-```bash
-Ns-EasyStore-Professional/
+* ✨ Modern SaaS Dashboard
+* 🧼 Clean & Minimal UI
+* 📐 Grid Layout System
+* 🌫️ Soft Shadow Style
+* 🔵 Rounded Components
+* 📱 Responsive Design
+* 👀 เน้นอ่านง่ายและใช้งานสะดวก
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+| Design            | Frontend        | Backend       |
+| ----------------- | --------------- | ------------- |
+| 🎨 Figma          | ⚛️ React.js     | 🟢 Node.js    |
+| 🧩 Auto Layout    | ▲ Next.js       | 🚂 Express.js |
+| 🖌️ Design System | 💨 Tailwind CSS | 🍃 MongoDB    |
+| 🧱 Components     | 🔷 TypeScript   | 🔗 REST API   |
+
+</div>
+
+---
+
+# 📂 โครงสร้างโปรเจกต์
+
+```bash id="ny2mbm"
+BookBand-ProDashboard/
 │
-├── Database/
-├── Images/
-├── Reports/
-├── Backup/
-├── Setup/
-├── SourceCode/
+├── assets/
+├── components/
+├── pages/
+├── styles/
+├── preview/
 └── README.md
 ```
 
 ---
 
-# 🛠 เทคโนโลยีที่ใช้
+# 🚀 วิธีเริ่มต้นใช้งาน
 
-| เทคโนโลยี | รายละเอียด |
-|---|---|
-| VB.NET | พัฒนาโปรแกรม |
-| SQL Server | ระบบฐานข้อมูล |
-| Crystal Reports | ระบบรายงาน |
-| Bunifu UI | Modern UI |
+## Clone Repository
 
----
+```bash id="u6n7sp"
+git clone https://github.com/yourusername/bookband-dashboard.git
+```
 
-# 🔒 ระบบความปลอดภัย
+## Install Dependencies
 
-- ระบบ Login
-- จัดการสิทธิ์ผู้ใช้งาน
-- ระบบสำรองฐานข้อมูล
-- ป้องกันข้อมูลสูญหาย
+```bash id="0i8pc9"
+npm install
+```
 
----
+## Run Development Server
 
-# 📈 อัปเดตในอนาคต
-
-- รองรับ Cloud Database
-- รองรับ Mobile Dashboard
-- รองรับหลายสาขา
-- เชื่อมต่อระบบออนไลน์
-- AI วิเคราะห์ยอดขาย
+```bash id="vhq6t3"
+npm run dev
+```
 
 ---
 
-# 🤝 การร่วมพัฒนา
+# 📱 Responsive Design
 
-หากต้องการร่วมพัฒนาโปรเจกต์:
-
-1. Fork โปรเจกต์
-2. สร้าง Branch ใหม่
-3. Commit การเปลี่ยนแปลง
-4. Push ขึ้น GitHub
-5. เปิด Pull Request
+| Desktop | Tablet | Mobile     |
+| ------- | ------ | ---------- |
+| ✅       | ✅      | 🚧 Planned |
 
 ---
 
-# 📄 License
+# 🎯 วัตถุประสงค์ของโปรเจกต์
 
-โปรเจกต์นี้อยู่ภายใต้ MIT License
+โปรเจกต์ **BookBand Pro Dashboard** ถูกออกแบบและพัฒนาขึ้นเพื่อสร้างระบบ Dashboard สำหรับจัดการร้านหนังสือและแพลตฟอร์ม BookBand ให้สามารถใช้งานได้อย่างสะดวก ทันสมัย และมีประสิทธิภาพ
+
+* 📚 พัฒนาระบบจัดการข้อมูลหนังสือให้เป็นระเบียบและเข้าถึงง่าย
+* 👥 อำนวยความสะดวกในการจัดการผู้ใช้งานและข้อมูลสมาชิก
+* 🛒 ช่วยติดตามออเดอร์และการซื้อขายภายในระบบ
+* 📈 แสดงข้อมูลสถิติและ Analytics ในรูปแบบที่เข้าใจง่าย
+* 🎨 ออกแบบ UI/UX ที่ทันสมัย สวยงาม และใช้งานง่าย
+* 📱 รองรับการใช้งานหลายอุปกรณ์ด้วย Responsive Design
+* ⚡ เพิ่มประสบการณ์การใช้งานที่รวดเร็วและมีประสิทธิภาพ
+* 🧩 ฝึกกระบวนการออกแบบ Design System และ Dashboard Interface
+* 💡 ใช้เป็นผลงาน Portfolio ด้าน UI/UX และ Frontend Development
+
+---
+
+# 📌 สิ่งที่จะพัฒนาต่อ
+
+* 🌙 Dark Mode
+* 📈 Real-time Analytics
+* 🔔 Notification System
+* 🌐 รองรับหลายภาษา
+* 📤 Export Reports
+* 📱 Mobile Optimization
 
 ---
 
 # 👨‍💻 ผู้พัฒนา
 
-### Ns Developer Team
+### mori
 
-พัฒนาโซลูชันสำหรับธุรกิจร้านค้าสมัยใหม่
-
----
-
-# 📞 ติดต่อ
-
-📧 Email: support@nseasystore.com  
-🌐 Website: https://nseasystore.com  
-📘 Facebook: Ns EasyStore
+UI/UX Designer & Frontend Developer
 
 ---
 
-# ⭐ สนับสนุนโปรเจกต์
+# 📄 License
 
-หากคุณชอบโปรเจกต์นี้ สามารถกด ⭐ Star บน GitHub เพื่อสนับสนุนได้
+โปรเจกต์นี้จัดทำขึ้นเพื่อการศึกษาและใช้ใน Portfolio เท่านั้น
 
 ---
 
 <div align="center">
 
-### 💙 Ns EasyStore Professional
+### 💙 Designed with Figma
 
-ระบบจัดการร้านค้าอัจฉริยะสำหรับธุรกิจยุคใหม่
+⭐ หากชอบโปรเจกต์นี้ สามารถกด Star ได้เลย!
 
 </div>
-````
