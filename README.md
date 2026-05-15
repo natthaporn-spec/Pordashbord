@@ -5,7 +5,6 @@
 
 ![Status](https://img.shields.io/badge/Status-UI%20Design-success?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge\&logo=figma)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Portfolio-lightgrey?style=for-the-badge)
 
 ### ✨ ProDashboard คือโปรแกรมระบบขายหน้าร้าน (POS)✨
@@ -23,12 +22,12 @@
 
 โปรเจกต์ **ProDashboard** ถูกออกแบบและพัฒนาขึ้นเพื่อสร้างระบบ Dashboard สำหรับจัดการขายให้สามารถใช้งานได้อย่างสะดวก ทันสมัย และมีประสิทธิภาพ
 
-* 🛒 ช่วยติดตามออเดอร์และการซื้อขายภายในระบบ
-* 📈 แสดงข้อมูลสถิติและ Analytics ในรูปแบบที่เข้าใจง่าย
-* 🎨 ออกแบบ UI/UX ที่ทันสมัย สวยงาม และใช้งานง่าย
-* ⚡ เพิ่มประสบการณ์การใช้งานที่รวดเร็วและมีประสิทธิภาพ
-* 🧩 ฝึกกระบวนการออกแบบ Design System และ Dashboard Interface
-* 💡 ใช้เป็นผลงาน Portfolio ด้าน UI/UX และ Frontend Development
+*  ช่วยติดตามออเดอร์และการซื้อขายภายในระบบ
+*  แสดงข้อมูลสถิติและ Analytics ในรูปแบบที่เข้าใจง่าย
+*  ออกแบบ UI/UX ที่ทันสมัย สวยงาม และใช้งานง่าย
+*  เพิ่มประสบการณ์การใช้งานที่รวดเร็วและมีประสิทธิภาพ
+*  ฝึกกระบวนการออกแบบ Design System และ Dashboard Interface
+*  ใช้เป็นผลงาน Portfolio ด้าน UI/UX และ Frontend Development
 
 ---
 
@@ -74,7 +73,7 @@
 | ⚙️ System  | 📍 Location    | 📞 Contact | ✉️ Email     | 💬 Support      | 📚 Categories |
 | ---------- | -------------- | ---------- | ------------ | --------------- | ------------- |
 | 📦 Product | 👨‍👩‍👧 Users | 📥 Import  | 💰 Payment   | 🛒 Cart         | 📊 Statistics |
-| 📝 Form    | 🪪 Profile     | 📈 Reports | 📄 Documents | 🔔 Notification | ⚡ Dashboard   |
+| 📝 Form    | 🪪 Profile     | 📈 Reports | 📄 Documents | 🔔 Notification | ⚙️ Dashboard   |
 
 ---
 
@@ -111,5 +110,10 @@ BookBand-ProDashboard/
 * 🌐 รองรับหลายภาษา
 
 ---
+<div align="center">
 
+### ProDashboard
+
+Complete Store & Inventory Management System
+</div>
 
