@@ -43,9 +43,10 @@
 ---
 # ✨ Features
 
-| ⚙️ Dashboard | 📚 Books        | 👥 Users      | 🛒 Orders    | 💳 Payment    | 📈 Analytics    |
-| ------------ | --------------- | ------------- | ------------ | ------------- | --------------- |
-| 🔍 Search    | 🔔 Notification | 📱 Responsive | 🎨 Modern UI | ⚡ Fast System | 🧩 Clean Design |
+| ⚙️ Dashboard         | 📚 Products        | 👥 Customers | 🛒 Orders         | 💳 Payment   | 🔍 Search |
+| -------------------- | ------------------ | ------------ | ----------------- | ------------ | --------- |
+| ระบบจัดการ Dashboard | จัดการข้อมูลสินค้า | จัดการลูกค้า | ระบบออเดอร์สินค้า | ระบบชำระเงิน | ระบบค้นหา |
+
 
 ---
 
