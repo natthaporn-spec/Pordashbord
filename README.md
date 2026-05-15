@@ -42,85 +42,24 @@
 
 ---
 
-# ✨ Features
 
-| Icon | Feature              |
-| ---- | -------------------- |
-| ⚙️   | ระบบจัดการ Dashboard |
-| 📚   | จัดการข้อมูลสินค้า  |
-| 👥   | จัดการข้อมูลลูกค้า      |
-| 🛒   | ระบบออเดอร์สินค้า    |
-| 💳   | ระบบชำระเงิน         |
-| 🔍   | ระบบค้นหาสินค้า            |
-
----
-
-# 🎨 Design System
-
-## 🌈 Color Palette
-
-| สี         |            |
-| --------- | --------- |
-| #DEF1FF   | #FCFCFC |
-| #5C8FBC   | #EDEDED |
-| #1F73E6   | #D4D4D4 |
-| #0056A1   | #BFBEBE |
-| #1C5097   | #5B5B5B |
-| #252F6D   | #000000 |
-| #FFFFFF   | #DD3A03 |
-| #F2F3F7   | #FF0000 |
-
----
-
-# 🧩 Icons ที่ใช้ในโปรเจกต์
+# 🧩 Icons 
 
 ## 🔹 Action Icons
 
-| Icon | การใช้งาน  |
-| ---- | ---------- |
-| ⚙️   | Settings   |
-| 🗂️  | Database   |
-| 💹   | Analytics  |
-| 👛   | Wallet     |
-| 📋   | Reports    |
-| ❌    | Close      |
-| 💾   | Save       |
-| 🧾   | Export CSV |
-| 🖨️  | Print      |
-| 👁️  | Preview    |
-| 🗑️  | Delete     |
-| ✏️   | Edit       |
-| 🔍   | Search     |
-| ➕    | Add        |
-| 🔖   | Bookmark   |
-| ⬇️   | Dropdown   |
-| 📤   | Upload     |
-| ➖    | Remove     |
-| ➕    | Create     |
+| ⚙️ Settings | 🗂️ Database  | 💹 Analytics | 👛 Wallet   | 📋 Reports | ❌ Close  |
+| ----------- | ------------- | ------------ | ----------- | ---------- | -------- |
+| 💾 Save     | 🧾 Export CSV | 🖨️ Print    | 👁️ Preview | 🗑️ Delete | ✏️ Edit  |
+| 🔍 Search   | ➕ Add         | 🔖 Bookmark  | ⬇️ Dropdown | 📤 Upload  | ➖ Remove |
 
 ---
 
 ## 🔹 System Icons
 
-| Icon     | การใช้งาน       |
-| -------- | --------------- |
-| ⚙️       | System Settings |
-| 📍       | Location        |
-| 📞       | Contact         |
-| ✉️       | Email           |
-| 🖨️       | Printer         |
-| 💬       | Line Support    |
-| 📚       | Categories      |
-| 📦       | Product         |
-| 👨‍👩‍👧       | Users           |
-| 📥       | Import          |
-| 💰       | Payment         |
-| 🛒       | Shopping Cart   |
-| 📊       | Statistics      |
-| 📝       | Form            |
-| 🪪       | Profile         |
-| 📈       | Reports         |
-| 📄       | Documents       |
+| ⚙️ System  | 📍 Location    | 📞 Contact | ✉️ Email     | 💬 Support      | 📚 Categories |
+| ---------- | -------------- | ---------- | ------------ | --------------- | ------------- |
+| 📦 Product | 👨‍👩‍👧 Users | 📥 Import  | 💰 Payment   | 🛒 Cart         | 📊 Statistics |
+| 📝 Form    | 🪪 Profile     | 📈 Reports | 📄 Documents | 🔔 Notification | ⚡ Dashboard   |
 
 ---
 
