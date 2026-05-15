@@ -41,6 +41,20 @@
 </div>
 
 ---
+# ✨ Features
+
+| ⚙️ Dashboard | 📚 Books        | 👥 Users      | 🛒 Orders    | 💳 Payment    | 📈 Analytics    |
+| ------------ | --------------- | ------------- | ------------ | ------------- | --------------- |
+| 🔍 Search    | 🔔 Notification | 📱 Responsive | 🎨 Modern UI | ⚡ Fast System | 🧩 Clean Design |
+
+---
+
+# 🌈 Color Palette
+
+| #DEF1FF  | #5C8FBC   | #1F73E6   | #0056A1 | #1C5097    | #252F6D  |
+| ---------------- | ----------------- | -------------- | -------------- | --------------- | -------------- |
+|#FFFFFF | #F2F3F7 | #FCFCFC | #EDEDED | #D4D4D4 | #000000 |
+
 
 
 # 🧩 Icons 
